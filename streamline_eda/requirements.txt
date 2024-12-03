@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyjanitor
+pandera
+pygwalker
+plotly
