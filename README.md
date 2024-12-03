@@ -2,7 +2,7 @@
 
 ![App Banner](images/banner.png)
 
-Welcome to the **Data Cleaning & Exploratory Data Analysis (EDA) App**! This Streamlit-based application provides an intuitive interface for data scientists, analysts, and enthusiasts to upload, clean, analyze, and visualize datasets with ease.
+Welcome to the **Streamline-EDA*! This Streamlit-based application provides an intuitive interface for data scientists, analysts, and enthusiasts to upload, clean, analyze, and visualize datasets with ease.
 
 ## 📝 Table of Contents
 
@@ -24,7 +24,7 @@ Welcome to the **Data Cleaning & Exploratory Data Analysis (EDA) App**! This Str
 
 ## 🖥️ Features
 
-Our application is designed to streamline the data analysis workflow. Below are the key features:
+Streamline-EDA is designed to streamline the data analysis workflow. Below are the key features:
 
 ### 📥 Upload Data
 
