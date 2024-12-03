@@ -1,6 +1,12 @@
-streamlit
+amlit
 pandas
 pyjanitor
 pandera
 pygwalker
 plotly
+streamlit
+streamlit-option-menu
+scikit-learn
+matplotlib
+scipy
+seaborn
