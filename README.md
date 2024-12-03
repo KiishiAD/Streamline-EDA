@@ -72,9 +72,11 @@ Follow these steps to set up the application locally:
 
 1. **Clone the Repository**
 
-Git clone the project repo: https://github.com/KiishiAD/Streamline-EDA.git
+- Git clone the project repo: https://github.com/KiishiAD/Streamline-EDA.git
 
 2. **Create a virtual env and install the libraries in the requirements.txt file**
-
 - python -m venv venv
 - pip install -r requirements.txt
+
+3. **Run the app in the project directory**
+- Streamlit run main.py
