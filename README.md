@@ -2,8 +2,6 @@
 
 ![App Banner](images/banner.png)
 
-Welcome to the **Streamline-EDA*! This Streamlit-based application provides an intuitive interface for data scientists, analysts, and enthusiasts to upload, clean, analyze, and visualize datasets with ease.
-
 ## 📝 Table of Contents
 
 - [📊 Data Cleaning & Exploratory Data Analysis (EDA) App](#-data-cleaning--exploratory-data-analysis-eda-app)
