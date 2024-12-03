@@ -1,4 +1,4 @@
-# 📊 Data Cleaning & Exploratory Data Analysis (EDA) App
+# 📊 Streamline-EDA
 
 ![App Banner](images/banner.png)
 
