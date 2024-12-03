@@ -72,6 +72,4 @@ Follow these steps to set up the application locally:
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/data-cleaning-eda-app.git
-   cd data-cleaning-eda-app
+
