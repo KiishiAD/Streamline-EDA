@@ -7,7 +7,7 @@ import pages.data_validation
 import pages.data_cleaning
 import pages.eda
 import pages.settings
-import pages.timeline  # Import the new Timeline page
+import pages.timeline 
 from utils import initialize_session_state
 
 def main():
