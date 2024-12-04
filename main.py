@@ -1,4 +1,5 @@
 import streamlit as st
+import config
 from streamlit_option_menu import option_menu
 import pages.data_upload
 import pages.dataset_overview
