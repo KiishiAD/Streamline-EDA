@@ -1,4 +1,4 @@
-# pages/data_upload.py
+
 
 import streamlit as st
 import pandas as pd
@@ -51,7 +51,7 @@ def app():
             if file_extension == 'csv':
                 # Read a small chunk to get the total rows
                 try:
-                    preview = pd.read_csv(uploaded_file, nrows=1000)
+                    preview = pd.read_csv(uploaded_file, nrows=1000,encoding='latin-1', delimiter = ",")
                     total_rows = len(preview) + 1  # Approximate total rows
                 except Exception as e:
                     st.error(f"Error reading CSV file: {e}")
@@ -83,7 +83,7 @@ def app():
         # Read the file with the selected sheet and header row
         try:
             if file_extension == 'csv':
-                df = pd.read_csv(uploaded_file, header=header_row, na_values=['', 'NA', 'NaN'])
+                df = pd.read_csv(uploaded_file, header=header_row, na_values=['', 'NA', 'NaN'],encoding='latin-1', delimiter = ",")
             elif file_extension == 'xlsx':
                 if sheet_selected:
                     df = pd.read_excel(uploaded_file, sheet_name=sheet_selected, header=header_row, na_values=['', 'NA', 'NaN'])
