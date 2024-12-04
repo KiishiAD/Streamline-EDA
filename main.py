@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-import config
 import pages.data_upload
 import pages.dataset_overview
 import pages.data_validation
