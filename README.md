@@ -2,35 +2,35 @@
 
 ![App Banner](images/banner.png)
 
-## 📝 Table of Contents
+## Table of Contents
 
-- [📊 Data Cleaning & Exploratory Data Analysis (EDA) App](#-data-cleaning--exploratory-data-analysis-eda-app)
-  - [🖥️ Features](#️-features)
-    - [📥 Upload Data](#-upload-data)
-    - [🧹 Data Cleaning](#-data-cleaning)
-    - [📊 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-    - [📥 Export Data](#-export-data)
-    - [⏮️ Timeline History](#️-timeline-history)
-  - [🚀 Installation](#-installation)
-  - [🛠️ Usage](#️-usage)
-  - [📸 Screenshots](#-screenshots)
-  - [🤝 Contributing](#-contributing)
-  - [📜 License](#-license)
-  - [📫 Contact](#-contact)
+- [Data Cleaning & Exploratory Data Analysis (EDA) App](#-data-cleaning--exploratory-data-analysis-eda-app)
+  - [🖥Features](#-features)
+    - [ Upload Data](#-upload-data)
+    - [Data Cleaning](#-data-cleaning)
+    - [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+    - [Export Data](#-export-data)
+    - [⏮Timeline History](#-timeline-history)
+  - [Installation](#-installation)
+  - [ Usage](#-usage)
+  - [Screenshots](#-screenshots)
+  - [Contributing](#-contributing)
+  - [License](#-license)
+  - [Contact](#-contact)
 
 ---
 
-## 🖥️ Features
+## Features
 
 Streamline-EDA is designed to streamline the data analysis workflow. Below are the key features:
 
-### 📥 Upload Data
+### Upload Data
 
 Easily upload your datasets in various formats including CSV, Excel, JSON, and Parquet.
 
 ![Upload Data](images/upload_data.png)
 
-### 🧹 Data Cleaning
+### Data Cleaning
 
 Perform essential data cleaning operations such as handling missing values, removing duplicates, detecting and managing outliers, and encoding categorical variables.
 
@@ -41,7 +41,7 @@ Perform essential data cleaning operations such as handling missing values, remo
 
 ![Data Cleaning](images/data_cleaning.png)
 
-### 📊 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Gain insights into your data with comprehensive EDA tools, including data previews, descriptive statistics, correlation heatmaps, and interactive visualizations using PyGWalker.
 
@@ -52,13 +52,13 @@ Gain insights into your data with comprehensive EDA tools, including data previe
 
 ![EDA](images/eda.png)
 
-### 📥 Export Data
+### Export Data
 
 Export the current state of your DataFrame at any point in the analysis. Choose between CSV and Excel formats for your downloads.
 
 ![Export Data](images/export_data.png)
 
-### ⏮️ Timeline History
+### ⏮Timeline History
 
 Track all the transformations and changes made to your dataset with a comprehensive timeline. Revert to any previous state effortlessly to ensure data integrity.
 
@@ -66,7 +66,7 @@ Track all the transformations and changes made to your dataset with a comprehens
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Follow these steps to set up the application locally:
 
