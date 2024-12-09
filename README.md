@@ -58,7 +58,7 @@ Export the current state of your DataFrame at any point in the analysis. Choose 
 
 ![Export Data](images/export_data.png)
 
-### ⏮Timeline History
+### Timeline History
 
 Track all the transformations and changes made to your dataset with a comprehensive timeline. Revert to any previous state effortlessly to ensure data integrity.
 
