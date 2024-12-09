@@ -1,16 +1,16 @@
-# 📊 Streamline-EDA
+# Streamline-EDA
 
 ![App Banner](images/banner.png)
 
 ## Table of Contents
 
 - [Data Cleaning & Exploratory Data Analysis (EDA) App](#-data-cleaning--exploratory-data-analysis-eda-app)
-  - [🖥Features](#-features)
+  - [Features](#-features)
     - [ Upload Data](#-upload-data)
     - [Data Cleaning](#-data-cleaning)
     - [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
     - [Export Data](#-export-data)
-    - [⏮Timeline History](#-timeline-history)
+    - [Timeline History](#-timeline-history)
   - [Installation](#-installation)
   - [ Usage](#-usage)
   - [Screenshots](#-screenshots)
