@@ -28,7 +28,7 @@ Streamline-EDA is designed to streamline the data analysis workflow. Below are t
 
 Easily upload your datasets in various formats including CSV, Excel, JSON, and Parquet.
 
-![Upload Data](images/upload_data.png)
+![Upload Data](images/data_preview.png)
 
 ### Data Cleaning
 
