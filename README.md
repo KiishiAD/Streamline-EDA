@@ -1,6 +1,5 @@
 # Streamline-EDA
 
-![App Banner](images/banner.png)
 
 ## Table of Contents
 
