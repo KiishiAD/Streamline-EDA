@@ -8,6 +8,7 @@
   - [Features](#-features)
     - [ Upload Data](#-upload-data)
     - [Data Cleaning](#-data-cleaning)
+    - [Data Validation](#-data-validation)
     - [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
     - [Export Data](#-export-data)
     - [Timeline History](#-timeline-history)
@@ -24,11 +25,12 @@
 
 Streamline-EDA is designed to streamline the data analysis workflow. Below are the key features:
 
-### Upload Data
+### Upload Data and View your Data
 
-Easily upload your datasets in various formats including CSV, Excel, JSON, and Parquet.
+Easily upload your datasets in various formats including CSV, Excel, JSON, and Parquet and output summary stats.
 
 ![Upload Data](images/data_preview.png)
+![Upload Data](images/dataset_overview.png)
 
 ### Data Cleaning
 
@@ -39,7 +41,14 @@ Perform essential data cleaning operations such as handling missing values, remo
 - **Outlier Detection & Handling:** Use Z-Score or IQR methods to detect and remove or cap outliers.
 - **Data Transformation:** Standardize, normalize, and encode categorical variables.
 
-![Data Cleaning](images/data_cleaning.png)
+![Data Cleaning](images/data_cleaning_1.png)
+![Data Cleaning](images/data_cleaning_2.png)
+
+### Data Validation
+- **Set Rules:** Set strict rules records should follow helping to fix ensure reliable consistency
+  
+  ![Data Validation](images/data_validation_1.png)
+  ![Data Validation](images/data_validation_2.png)
 
 ### Exploratory Data Analysis (EDA)
 
@@ -56,13 +65,12 @@ Gain insights into your data with comprehensive EDA tools, including data previe
 
 Export the current state of your DataFrame at any point in the analysis. Choose between CSV and Excel formats for your downloads.
 
-![Export Data](images/export_data.png)
 
 ### Timeline History
 
 Track all the transformations and changes made to your dataset with a comprehensive timeline. Revert to any previous state effortlessly to ensure data integrity.
 
-![Timeline History](images/timeline_history.png)
+![Timeline History](images/timeline.png)
 
 ---
 
